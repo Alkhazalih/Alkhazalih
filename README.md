@@ -27,7 +27,7 @@ What you **Need! In One Bot.**\
 
 **Ruhul Bypass** is **fast**, **secure**, **reliable**, has **high ratings** in the market, and is also **easy to use.**
 
-**Ruhul Bypass** is a paid app. You can purchase activation codes **OR request a trial key for a period of 7-14 days** through the Discord server at the following link:
+**Ruhul Bypass** is a paid app. You can purchase activation codes **OR request a trial key for a period of 7-14 days** through the Discord server at the following link: [Click Here](https://discord.gg/9ravwb3WHM)
 
 
 ## 📈 Tech Stack & Tools
