@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I am a **Discord Bot Developer** with over 5 years of experience in crafting intelligent, scalable, and user-friendly bots. Since 2020, I've been immersed in the world of Discord, creating solutions that power communities, enhance user engagement, and automate server management.
+I am a **Discord Bot Developer** with over 6 years of experience in crafting intelligent, scalable, and user-friendly bots. Since 2020, I've been immersed in the world of Discord, creating solutions that power communities, enhance user engagement, and automate server management.
 
 - 🔥 **Expertise:** JavaScript, Python, Node.js, Discord.js, Discord.py, MongoDB, SQL.
 - 🚀 **Passionate About:** Bot Development, AI & Automation, API Integrations, Server Management.
