@@ -39,7 +39,7 @@ What you **Need! In One Bot.**\
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** [idaxdev@gmail.com](idaxdev@gmail.com)
+- 📧 **Email:** [contact@alkhazalih.xyz](contact@alkhazalih.xyz)
 - 🌐 **My Discord:** [Ruhul Services](https://discord.gg/9ravwb3WHM)
 
 ---
