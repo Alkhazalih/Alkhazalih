@@ -41,8 +41,8 @@ What you **Need! In One Bot.**\
 
 - 📧 **Email:** [contact@alkhazalih.xyz](contact@alkhazalih.xyz)
 - 🌐 **My Discord:** [Ruhul Studios](https://ruhul.lol/discord)
-- My Website : ** [Alkhazalih.xyz](https://alkhazalih.xyz)
-- RuhulStudios Website : ** [RuhulStudios](https://ruhul.lol)
+- 🌐 **My Website : ** [Alkhazalih.xyz](https://alkhazalih.xyz)
+- 🌐 **RuhulStudios Website : ** [RuhulStudios](https://ruhul.lol)
 
 ---
 
