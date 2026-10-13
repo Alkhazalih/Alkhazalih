@@ -1,49 +1,78 @@
-# Welcome to My GitHub World! 🌐
+<h-align align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=130f26&height=150&section=header&text=Sanad%20Khazalih&fontSize=28&fontColor=9d4edd&animation=fadeIn&fontAlignY=38" width="100%" />
+</h-align>
 
-## 👋 About Me
+<div align="center">
 
-I am a **Discord Bot Developer** with over 6 years of experience in crafting intelligent, scalable, and user-friendly bots. Since 2020, I've been immersed in the world of Discord, creating solutions that power communities, enhance user engagement, and automate server management.
+  ### 👋 Hello, I'm Sanad Khazalih
+  ### 🚀 RuhulStudio's CEO | Full Stack Developer
+  Based in **Jordan** 🇯🇴
 
-- 🔥 **Expertise:** JavaScript, Python, Node.js, Discord.js, Discord.py, MongoDB, SQL.
-- 🚀 **Passionate About:** Bot Development, AI & Automation, API Integrations, Server Management.
-- 🛠️ **Toolbox:** Visual Studio Code, Git, Docker, FFmpeg, npm (`discord.js`).
+  <img src="https://komarev.com/ghpvc/?username=Alkhazalih&color=9d4edd&style=flat-square&label=VISITORS" alt="Visitor Counter" />
 
-## 🚀 My Projects
-
-### RuhulBot - The next generation 2025's
-![RuhulBot](https://cdn.discordapp.com/banners/1391376648951173190/14d9470324dd420dd6543a9eee2a0024.webp?size=1024)
-
- **Ruhul **is a** powerful** Discord bot that developed by **unique** programmers and experts in Cybersecurity and Data science.\
-Additionally, **Ruhul **will be able to** full controlling** your Discord server from moderation and much **more features**.\
-What you **Need! In One Bot.**\
-**✅ Invite Link : [Click Here](https://discord.com/oauth2/authorize?client_id=1308048919774629888&permissions=8&integration_type=0&scope=bot)**
-
-### Ruhul Bypass Tool - The new bypass tool !!
-<img width="931" height="737" alt="image" src="https://github.com/user-attachments/assets/54ffdc1d-4d04-4902-b0dd-9784d8a8d3ec" />
-
-**Ruhul Bypass** is a **new bypass tool currently in use**. It offers **features** not found in other bypass programs currently on the market. It also has **high ratings** and is **constantly updated** to ensure your continued service.
-
-**To maintain your safety, we conduct security updates and program checks from time to time.**
-
-**Ruhul Bypass** is **fast**, **secure**, **reliable**, has **high ratings** in the market, and is also **easy to use.**
-
-**Ruhul Bypass** is a paid app. You can purchase activation codes **OR request a trial key for a period of 7-14 days** through the Discord server at the following link: [Click Here](https://discord.gg/9ravwb3WHM)
-
-
-## 📈 Tech Stack & Tools
-
-- **Languages:** JavaScript, Python, Html, CSS
-- **Frameworks/Libraries:** Discord.js, Node.js, Express, Eris, Discordino
-- **Databases:** MongoDB, SQL
-- **Tools:** Visual Studio Code, Git, Docker, FFmpeg
-
-## 📫 Get in Touch
-
-- 📧 **Email:** [contact@alkhazalih.xyz](contact@alkhazalih.xyz)
-- 🌐 **My Discord:** [Ruhul Studios](https://ruhul.lol/discord)
-- 🌐 **My Website :** [Alkhazalih.xyz](https://alkhazalih.xyz)
-- 🌐 **RuhulStudios Website :** [RuhulStudios](https://ruhul.lol)
+</div>
 
 ---
 
-Feel free to connect with me for collaborations or inquiries!
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alkhazalih&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkhazalih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkhazalih&theme=tokyonight&hide_border=true&background=0d1117&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=9d4edd" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💻 Skills & Tools
+
+<div align="center">
+
+  ### ⚡ Programming Languages
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+
+  ### 🛠️ Frameworks & Libraries
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
+
+  ### 🗄️ Databases & Infrastructure
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🔗 Connect & Projects</h3>
+  <p>
+    <a href="mailto:sanad@ruhul.lol"><img src="https://img.shields.io/badge/Email-sanad@ruhul.lol-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://wa.me/962779124884" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+962%2077%20912%204884-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://discord.com/users/1142824627001888820" target="_blank"><img src="https://img.shields.io/badge/Discord-@e1r__-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  </p>
+  <p>
+    <a href="https://ruhul.lol" target="_blank">Ruhul Projects · @RuhulStudios</a>
+  </p>
+</div>
