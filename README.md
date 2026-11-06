@@ -69,7 +69,6 @@
   <h3>🔗 Connect & Projects</h3>
   <p>
     <a href="mailto:sanad@ruhul.lol"><img src="https://img.shields.io/badge/Email-sanad@ruhul.lol-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://wa.me/962779124884" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+962%2077%20912%204884-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://discord.com/users/1142824627001888820" target="_blank"><img src="https://img.shields.io/badge/Discord-@e1r__-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   </p>
   <p>
